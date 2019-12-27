@@ -1,0 +1,9 @@
+User-agent: googlebot
+Disallow: /cgl-bin/
+Disallow: /wp-admin
+Disallow: /archives
+Disallow: /*?*
+Disallow: /*?replytocom
+Disallow: /wp-*
+Disallow: /author
+Disallow: /comments/feed/
